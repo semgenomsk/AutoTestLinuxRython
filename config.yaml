@@ -1,0 +1,11 @@
+folder_in: /home/semgen/tst
+folder_out: /home/semgen/out
+folder_ext: /home/semgen/folder1
+folder_ext3: /home/semgen/folder3
+folder_bad: /home/semgen/folder2
+count: 3
+bs: 10K
+exten: zip
+host: localhost
+user: semgen
+passwd: "1"
